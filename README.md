@@ -104,6 +104,7 @@ s.send("acknowledgement recived from the server".encode())
 s.close()
 ```
 ## OUTPUT:
+<img width="1600" height="902" alt="WhatsApp Image 2026-10-30 at 8 00 47 PM" src="https://github.com/user-attachments/assets/496cedb8-b328-4022-a4e3-906f967b4f5b" />
 
 ## Result:
 
